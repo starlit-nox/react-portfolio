@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Howdy",
+      "description": "👋 I'm Kaydee Kelly. Creating and design is my passion! I'm a long-time graphic designer and an up and coming developer.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Literary Journal",
+        "startDate": "2017",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Graphic Design",
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [

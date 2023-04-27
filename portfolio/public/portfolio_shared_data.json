@@ -1,8 +1,13 @@
 {
     "basic_info": {
       "name": "Kaydee Kelly",
-      "titles": [ "Software Developer"],
+      "titles": [ "Creative Nomad"],
       "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kaydee-kelly-5a6389265/",
+          "class": "fab fa-linkedin"
+        },
         {
           "name": "github",
           "url": "https://github.com/starlit-nox",
