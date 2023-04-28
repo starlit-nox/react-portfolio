@@ -39,8 +39,8 @@
         "startDate": "2023",
         "description": "A website portfolio to store previous and current projects on for web development, graphic design, and illustration proejcts",
         "images": [
-          "portolio-1.jpg",
-          "portfolio-2.jpg"
+          "images/portolio-1.png",
+          "images/mindGym.png"
         ],
         "url": "https://github.com/starlit-nox/portfolio-prep",
         "technologies": [
