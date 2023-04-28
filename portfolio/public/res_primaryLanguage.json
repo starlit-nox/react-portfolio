@@ -81,37 +81,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Freelance Work",
+        "title": "Profile Designer",
+        "years": "2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "Affinity Suite"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "CodeCrew",
+        "title": "Software Development Apprentince",
+        "years": "01.2023 - Present",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "React.JS",
+          "C#",
+          "Python",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS"
         ]
       }
     ]
