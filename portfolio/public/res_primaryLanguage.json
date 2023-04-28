@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "MindGym Co. Trivia Application",
+        "startDate": "2023",
+        "description": "An application which users can use to make note cards to help with studying. The application allows users to be able to write, save, and print notecards on their device.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/trivia-app.png",
+          "images/mindGym.png"
         ],
-        "url": "",
+        "url": "https://github.com/MindGymCo/trvia-app",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Literary Journal",
-        "startDate": "2017",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Portfolio",
+        "startDate": "2023",
+        "description": "A website portfolio to store previous and current projects on for web development, graphic design, and illustration proejcts.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portolio-1.png",
+          "images/portfolio-2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/starlit-nox/portfolio-prep",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "Graphic Design",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Final Project Placeholder",
+        "startDate": "2023",
+        "description": "This is a placeholder slot for a project that will be released in the future. Please stand-by!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"

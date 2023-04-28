@@ -13,7 +13,7 @@
       {
         "title": "MindGym Co. Trivia Application ",
         "startDate": "2023",
-        "description": "An application which users can use to make note cards to help with studying. The application allows users to be able to write, save, and print notecards on their device..",
+        "description": "An application which users can use to make note cards to help with studying. The application allows users to be able to write, save, and print notecards on their device.",
         "images": [
           "trivia-app.jpg",
           "trivia-app.jpg"
@@ -39,8 +39,8 @@
         "startDate": "2023",
         "description": "A website portfolio to store previous and current projects on for web development, graphic design, and illustration proejcts",
         "images": [
-          "images/portolio-1.png",
-          "images/mindGym.png"
+          "images/port-1.png",
+          "images/port-2.png"
         ],
         "url": "https://github.com/starlit-nox/portfolio-prep",
         "technologies": [
